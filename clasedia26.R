@@ -84,11 +84,20 @@ is.na(y) #Valor no númerico que no es faltante
 #generalmemte la informacion se extrae de bases de datos
 #si son del mismo tipo podemos convertirlo en matriz data.matrix()
 
+ <- data.frame(foo= 1:4 , bar=c(T, T, F, F))
+x
+nrow(x)
+nol(x)
+
+
+
+
+
 
 x <- data.frame(foo= 1:4 , bar=c(T, T, F, F))
 x
 nrow(x)
-ncol(x)
+nol(x)
 
 
 x<- 1:3
