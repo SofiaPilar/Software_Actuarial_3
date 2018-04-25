@@ -79,5 +79,10 @@ $ nombre mas parecido
  
  #funciones que trabajan especificamente con vectores o listar
  
+for (i in 1:10) {
+  
+  print(i)
+  
+}
  
  
